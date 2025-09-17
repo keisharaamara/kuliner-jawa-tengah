@@ -1,29 +1,20 @@
-# Polk – Free Bootstrap Interior Design Website Template 
 
-#### Preview
 
- - [Demo](https://themewagon.github.io/polk/)
+![Foto Baju 1](fotobajudirepobaru1.jpg)
+![Foto Baju 2](fotobajudirepobaru2.jpg)
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/polk/)
+---
+
+## Polk – Free Bootstrap Interior Design Website Template
+
+**Preview**  
+**Demo**  
+**Download**  
+Download from ThemeWagon
+
+---
 
 ## Getting Started
-
-1. Clone Repository
-```
+Clone Repository  
+```bash
 git clone https://github.com/themewagon/polk.git
-```
-
-## Author 
-```
-Design and code are completely written by the HTML Design development team. 
-```
-
-## License
-
- - Design and Code is Copyright &copy; [HTML Design](https://html.design/)
- - Licensed under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
- 
-
- - 
