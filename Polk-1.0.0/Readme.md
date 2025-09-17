@@ -1,7 +1,6 @@
 
 
-![Foto Baju 1](fotobajudirepobaru1.jpg)
-![Foto Baju 2](fotobajudirepobaru2.jpg)
+
 
 ---
 
