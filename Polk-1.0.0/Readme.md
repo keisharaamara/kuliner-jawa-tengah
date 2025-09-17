@@ -24,7 +24,6 @@ Design and code are completely written by the HTML Design development team.
  - Design and Code is Copyright &copy; [HTML Design](https://html.design/)
  - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
- - ![Alt Text](assets/images/fotobajudurepobaru1.jpg)
-![Alt Text](assets/images/fotobajudirepobaru2.jpg)
+ 
 
  - 
